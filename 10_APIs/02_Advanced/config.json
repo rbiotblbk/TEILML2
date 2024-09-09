@@ -1,0 +1,7 @@
+{
+    "api_key": "bf74a3d336b9f22dd6af67b521a73839",
+    "city": ["Berlin", "Stuttgart"],
+    "lang": "de",
+    "unit": "metric", 
+    "export_file": "myweather.json"
+}
