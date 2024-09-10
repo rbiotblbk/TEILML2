@@ -1,6 +1,13 @@
-# OWM
+# Master Data 
+
+## Application
+~~~python
+owm.run()
+currency.run()
+~~~
 
 
+## OWM 
 
 Write an application to get the current weather from a list of cities.
 
@@ -25,3 +32,12 @@ Each Step of the application should be LOGGED.
 - Stuttgart
 - Aachen
 
+
+
+## Currency
+
+You need to get the euro to dollar and vs and store them locally in MySQLDB (SQLite)
+
+- Find a provider for the data
+- read documentation
+- do programming
