@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Berlin",
+        "temperature": 18.27,
+        "humidity": 62,
+        "description_de": "Mäßig bewölkt",
+        "description_en": "scattered clouds"
+    },
+    {
+        "city": "Stuttgart",
+        "temperature": 17.74,
+        "humidity": 68,
+        "description_de": "Überwiegend bewölkt",
+        "description_en": "broken clouds"
+    },
+    {
+        "city": "Aachen",
+        "temperature": 15.37,
+        "humidity": 78,
+        "description_de": "Leichter Regen",
+        "description_en": "light rain"
+    },
+    {
+        "city": "London",
+        "temperature": 15.96,
+        "humidity": 81,
+        "description_de": "Leichter Regen",
+        "description_en": "overcast clouds"
+    },
+    {
+        "city": "Misdroy",
+        "temperature": 17.07,
+        "humidity": 62,
+        "description_de": "Bedeckt",
+        "description_en": "overcast clouds"
+    },
+    {
+        "city": "Gdansk",
+        "temperature": 17.08,
+        "humidity": 54,
+        "description_de": "Ein paar Wolken",
+        "description_en": "few clouds"
+    }
+]

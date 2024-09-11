@@ -41,3 +41,8 @@ You need to get the euro to dollar and vs and store them locally in MySQLDB (SQL
 - Find a provider for the data
 - read documentation
 - do programming
+
+
+
+## Extension
+Use Abstract Class to make sure that all Apps have specific Methods to be implemented.

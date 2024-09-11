@@ -1,0 +1,108 @@
+2024-09-10 17:18:54,400:INFO:Fetched weather data for Berlin
+2024-09-10 17:18:54,606:INFO:Fetched weather data for Stuttgart
+2024-09-10 17:18:54,816:INFO:Fetched weather data for Aachen
+2024-09-10 17:18:54,818:INFO:Weather data saved to myweather.json
+2024-09-10 17:18:54,843:INFO:Weather data saved to MySQL database
+2024-09-10 17:18:54,844:INFO:MySQL connection closed
+2024-09-10 17:18:55,022:INFO:Fetched currency data
+2024-09-10 17:18:55,023:INFO:Currency data saved to currency_data.json
+2024-09-10 17:18:55,065:INFO:Currency data saved to MySQL database
+2024-09-10 17:18:55,065:INFO:MySQL connection closed
+2024-09-10 17:36:25,888:INFO:Fetched weather data for Berlin
+2024-09-10 17:36:26,118:INFO:Fetched weather data for Stuttgart
+2024-09-10 17:36:26,339:INFO:Fetched weather data for Aachen
+2024-09-10 17:36:26,340:INFO:Weather data saved to myweather.json
+2024-09-10 17:36:26,369:INFO:Weather data saved to MySQL database
+2024-09-10 17:36:26,369:INFO:MySQL connection closed
+2024-09-10 17:36:26,599:INFO:Fetched currency data
+2024-09-10 17:36:26,600:INFO:Currency data saved to currency_data.json
+2024-09-10 17:36:26,611:INFO:Currency data saved to MySQL database
+2024-09-10 17:36:26,611:INFO:MySQL connection closed
+2024-09-10 17:37:22,503:INFO:Fetched weather data for Berlin
+2024-09-10 17:37:22,728:INFO:Fetched weather data for Stuttgart
+2024-09-10 17:37:22,986:INFO:Fetched weather data for Aachen
+2024-09-10 17:37:22,987:INFO:Weather data saved to myweather.json
+2024-09-10 17:37:23,022:INFO:Weather data saved to MySQL database
+2024-09-10 17:37:23,022:INFO:MySQL connection closed
+2024-09-10 17:37:23,039:INFO:Weather data saved to SQLite database
+2024-09-10 17:37:23,039:INFO:SQLite connection closed
+2024-09-10 17:37:23,213:INFO:Fetched currency data
+2024-09-10 17:37:23,214:INFO:Currency data saved to currency_data.json
+2024-09-10 17:37:23,224:INFO:Currency data saved to MySQL database
+2024-09-10 17:37:23,224:INFO:MySQL connection closed
+2024-09-10 17:39:31,244:INFO:Fetched weather data for Berlin
+2024-09-10 17:39:31,445:INFO:Fetched weather data for Stuttgart
+2024-09-10 17:39:31,679:INFO:Fetched weather data for Aachen
+2024-09-10 17:39:31,680:INFO:Weather data saved to myweather.json
+2024-09-10 17:39:31,712:INFO:Weather data saved to MySQL database
+2024-09-10 17:39:31,712:INFO:MySQL connection closed
+2024-09-10 17:39:31,722:INFO:Weather data saved to SQLite database
+2024-09-10 17:39:31,722:INFO:SQLite connection closed
+2024-09-10 17:39:31,854:INFO:Fetched currency data
+2024-09-10 17:39:31,855:INFO:Currency data saved to currency_data.json
+2024-09-10 17:39:31,865:INFO:Currency data saved to MySQL database
+2024-09-10 17:39:31,866:INFO:MySQL connection closed
+2024-09-10 17:39:31,880:INFO:Currency data saved to SQLite database
+2024-09-10 17:39:31,880:INFO:SQLite connection closed
+2024-09-10 17:46:57,604:INFO:Fetched weather data for Berlin
+2024-09-10 17:46:57,833:INFO:Fetched weather data for Stuttgart
+2024-09-10 17:46:58,084:INFO:Fetched weather data for Aachen
+2024-09-10 17:46:58,085:INFO:Weather data saved to myweather.json
+2024-09-10 17:46:58,112:INFO:Weather data saved to MySQL database
+2024-09-10 17:46:58,113:INFO:MySQL connection closed
+2024-09-10 17:46:58,120:INFO:Weather data saved to SQLite database
+2024-09-10 17:46:58,121:INFO:SQLite connection closed
+2024-09-10 17:46:58,345:INFO:Fetched currency data
+2024-09-10 17:46:58,346:INFO:Currency data saved to currency_data.json
+2024-09-10 17:46:58,362:INFO:Currency data saved to MySQL database
+2024-09-10 17:46:58,363:INFO:MySQL connection closed
+2024-09-10 17:46:58,371:INFO:Currency data saved to SQLite database
+2024-09-10 17:46:58,371:INFO:SQLite connection closed
+2024-09-10 18:46:20,645:INFO:Fetched weather data for Berlin
+2024-09-10 18:46:20,862:INFO:Fetched weather data for Stuttgart
+2024-09-10 18:46:21,077:INFO:Fetched weather data for Aachen
+2024-09-10 18:46:21,385:INFO:Fetched weather data for London
+2024-09-10 18:46:21,386:INFO:Weather data saved to myweather.json
+2024-09-10 18:46:21,425:INFO:Weather data saved to MySQL database
+2024-09-10 18:46:21,425:INFO:MySQL connection closed
+2024-09-10 18:46:21,432:INFO:Weather data saved to SQLite database
+2024-09-10 18:46:21,432:INFO:SQLite connection closed
+2024-09-10 18:46:21,601:INFO:Fetched currency data
+2024-09-10 18:46:21,602:INFO:Currency data saved to currency_data.json
+2024-09-10 18:46:21,610:INFO:Currency data saved to MySQL database
+2024-09-10 18:46:21,611:INFO:MySQL connection closed
+2024-09-10 18:46:21,620:INFO:Currency data saved to SQLite database
+2024-09-10 18:46:21,620:INFO:SQLite connection closed
+2024-09-10 18:48:05,059:INFO:Fetched weather data for Berlin
+2024-09-10 18:48:05,305:INFO:Fetched weather data for Stuttgart
+2024-09-10 18:48:05,599:INFO:Fetched weather data for Aachen
+2024-09-10 18:48:05,802:INFO:Fetched weather data for London
+2024-09-10 18:48:06,082:INFO:Fetched weather data for Misdroy
+2024-09-10 18:48:06,083:INFO:Weather data saved to myweather.json
+2024-09-10 18:48:06,108:INFO:Weather data saved to MySQL database
+2024-09-10 18:48:06,108:INFO:MySQL connection closed
+2024-09-10 18:48:06,116:INFO:Weather data saved to SQLite database
+2024-09-10 18:48:06,116:INFO:SQLite connection closed
+2024-09-10 18:48:06,286:INFO:Fetched currency data
+2024-09-10 18:48:06,287:INFO:Currency data saved to currency_data.json
+2024-09-10 18:48:06,296:INFO:Currency data saved to MySQL database
+2024-09-10 18:48:06,297:INFO:MySQL connection closed
+2024-09-10 18:48:06,304:INFO:Currency data saved to SQLite database
+2024-09-10 18:48:06,304:INFO:SQLite connection closed
+2024-09-10 18:51:50,327:INFO:Fetched weather data for Berlin
+2024-09-10 18:51:50,542:INFO:Fetched weather data for Stuttgart
+2024-09-10 18:51:50,753:INFO:Fetched weather data for Aachen
+2024-09-10 18:51:50,955:INFO:Fetched weather data for London
+2024-09-10 18:51:51,194:INFO:Fetched weather data for Misdroy
+2024-09-10 18:51:51,386:INFO:Fetched weather data for Gdansk
+2024-09-10 18:51:51,387:INFO:Weather data saved to myweather.json
+2024-09-10 18:51:51,421:INFO:Weather data saved to MySQL database
+2024-09-10 18:51:51,422:INFO:MySQL connection closed
+2024-09-10 18:51:51,430:INFO:Weather data saved to SQLite database
+2024-09-10 18:51:51,430:INFO:SQLite connection closed
+2024-09-10 18:51:51,586:INFO:Fetched currency data
+2024-09-10 18:51:51,587:INFO:Currency data saved to currency_data.json
+2024-09-10 18:51:51,596:INFO:Currency data saved to MySQL database
+2024-09-10 18:51:51,596:INFO:MySQL connection closed
+2024-09-10 18:51:51,605:INFO:Currency data saved to SQLite database
+2024-09-10 18:51:51,605:INFO:SQLite connection closed

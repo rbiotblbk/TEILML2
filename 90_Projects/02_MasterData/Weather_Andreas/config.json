@@ -1,0 +1,25 @@
+{
+    "api_key": "bf74a3d336b9f22dd6af67b521a73839",
+    "currency_api_key": "50ec00fb7de51c5ae914704b",
+    "city": ["Berlin", "Stuttgart", "Aachen", "London", "Misdroy", "Gdansk"],
+    "lang": ["de", "en"],
+    "unit": "metric", 
+    "export_file": "myweather.json",
+    "currency_export_file": "currency_data.json",
+    "db_engine" : {
+        "sqlite": {
+            "active": true,
+            "host" : "weather.db"
+        },
+        "mysql":{
+            "active": false,
+            "host": "localhost",
+            "user":"user",
+            "password":"geheim",
+            "database":"weatherdb"
+        }
+
+
+    }
+    
+}
